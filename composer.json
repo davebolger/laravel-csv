@@ -1,5 +1,5 @@
 {
-    "name": "davebolder/laravel-csv",
+    "name": "davebolger/laravel-csv",
     "description": "Simple CSV manipulation for Laravel. Also you can select encoding.",
     "keywords": ["laravel", "csv"],
     "type": "library",
