@@ -1,10 +1,10 @@
 {
-    "name": "monokakure/laravel-csv",
+    "name": "davebolder/laravel-csv",
     "description": "Simple CSV manipulation for Laravel. Also you can select encoding.",
     "keywords": ["laravel", "csv"],
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/satkaku/laravel-csv",
+    "homepage": "https://github.com/davebolger/laravel-csv",
     "authors": [
         {
             "name": "satkaku"
