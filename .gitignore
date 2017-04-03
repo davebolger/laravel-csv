@@ -2,3 +2,10 @@ composer.phar
 composer.lock
 /vendor
 *.DS_Store
+.Spotlight-V100
+.Trashes
+.*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
